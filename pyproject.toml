@@ -1,0 +1,9 @@
+[project]
+name = "steg-experiment-3a"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "torch>=2.10.0",
+    "transformers>=5.3.0",
+]
